@@ -1,4 +1,4 @@
-# swing-desktop-starter-1.0.0
+# swing-desktop-starter-1.1.0
 A Sample Swing Desktop Application 
 
 ## Description
@@ -35,12 +35,4 @@ To :
 ```
 
 
-;-)
-```
-         __      _             
-        / _|    (_)            
-  _ __ | |_ _ __ _  __ _  __ _ 
- | '_ \|  _| '__| |/ _` |/ _` |
- | | | | | | |  | | (_| | (_| |
- |_| |_|_| |_|  |_|\__,_|\__,_|
-```                             
+
